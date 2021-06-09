@@ -1,0 +1,3 @@
+# Plaster Templates
+
+This is the place for storing my personal Plaster templates. Nothing special...
