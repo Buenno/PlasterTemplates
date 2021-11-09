@@ -8,7 +8,7 @@
         <version>0.0.1</version>
         <title>New Powershell Module</title>
         <description>Creates files and directories for a new module.</description>
-        <author>Bueno</author>
+        <author>Buenno</author>
         <tags></tags>
     </metadata>
     <parameters>
